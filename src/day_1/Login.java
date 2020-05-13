@@ -5,5 +5,6 @@ public class Login {
         System.out.println("Login github");
         //from github
         //from git
+        //git fetch git merge
     }
 }
