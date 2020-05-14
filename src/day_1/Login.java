@@ -7,6 +7,15 @@ public class Login {
         //from git
         //git fetch git merge
 
+
         //i have written something
+
+    
+    
+    
+    
+    
+    //write for conflict
+>>>>>>> 26c7e31b92b213e0cfded8a4956848fbda848945
     }
 }
