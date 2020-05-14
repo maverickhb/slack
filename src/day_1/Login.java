@@ -16,6 +16,6 @@ public class Login {
     
     
     //write for conflict
->>>>>>> 26c7e31b92b213e0cfded8a4956848fbda848945
+
     }
 }
